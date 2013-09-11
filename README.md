@@ -12,6 +12,7 @@ Haproxy management and monitoring web interface.
 ## Project examples
 - http://conheotiensinh.blogspot.com/2011/12/config-haproxy-with-pfsense-version-201.html
 - http://www.snapt-ui.com/products/snaptha/
+- https://zato.io/docs/web-admin/load-balancer/gui.html
 
 ## Requirenments for candidates
 - Ability to code with Python and it's web framework (like django, webpy, flask)
@@ -25,3 +26,5 @@ Haproxy management and monitoring web interface.
 - Learning how to making useful and simple interfaces.
 - Learning how to working with another project.
 
+
+[0] https://github.com/kozdincer/hapra
